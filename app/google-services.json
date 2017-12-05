@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "67642157248",
+    "firebase_url": "https://loginteste-530ed.firebaseio.com",
+    "project_id": "loginteste-530ed",
+    "storage_bucket": "loginteste-530ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67642157248:android:95fb2082810555c4",
+        "android_client_info": {
+          "package_name": "com.example.jonataswinston.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67642157248-dko141r3103ta8jk9jvirce2rgsvikom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonataswinston.loginfirebase",
+            "certificate_hash": "4341de058d5265cfa319134b07531a3715b76f9f"
+          }
+        },
+        {
+          "client_id": "67642157248-odq8fjccj9leb9c57c6gp776u4h2m3ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAyKb0fyTgpvlUIhwpkIDK1pdogKDWYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67642157248-odq8fjccj9leb9c57c6gp776u4h2m3ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67642157248:android:1422c68889a6c06c",
+        "android_client_info": {
+          "package_name": "com.example.jonataswinston.outrotesteloginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67642157248-pg1v5hhqskjg6b1ijvbfbrtspp37ufe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonataswinston.outrotesteloginfire",
+            "certificate_hash": "4341de058d5265cfa319134b07531a3715b76f9f"
+          }
+        },
+        {
+          "client_id": "67642157248-odq8fjccj9leb9c57c6gp776u4h2m3ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAyKb0fyTgpvlUIhwpkIDK1pdogKDWYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67642157248-odq8fjccj9leb9c57c6gp776u4h2m3ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
